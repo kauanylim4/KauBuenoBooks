@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+	<title>Logo-svg</title>
+	<defs>
+		<image  width="40" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAnCAMAAABKdvqKAAAAAXNSR0IB2cksfwAAAIpQTFRFAAAAFRUVCQkJBgYGBwcHCgoKFxcXAwMDAAAAAwMDCAgIAwMDAwMDBAQEAwMDAwMDAQEBBAQEBAQEBwcHCQkJMTExLy8vLi4uLy8vNDQ0CwsLPj4+Ojo6Ozs7Ojo6Ojo6Ozs7ODg4PT09CAgICwsLPDw8ODg4PDw8EhISBgYGCwsLDAwMDw8PERER8d83/AAAAC50Uk5TADaNnJyINer/3qa53bm1tP3YwqmhCxobGxNjBi8xMTAwLyCueAc1JkjgeVxQVifnldsAAACgSURBVHicY2QgEjDSTiEjIyO6EBD8Z2D6jSrKxojDbMbvqAq5/uGyEk0h918cClm+0Foh728iFfL9IlIh/89RhUNcIdFxPYAKcXoGPXMRr5ARR8ZmfIvmRjZ0lf9BcoyMzxlQFXLgsJmB4QeqQm6w3UD0H2YCmMnEeA/NRJzZFcNEXAUAukJlHL5mvIlmtQbO4LmCqpBB9zZxVhMERCsEAEnFQCjKBEVhAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "DelaGothicOne-Regular", "Dela Gothic One" } 
+	</style>
+	<use id="Camada 1" href="#img1" x="0" y="1"/>
+	<text id="K  " style="transform: matrix(1,0,0,1,10,7)" >
+		<tspan x="0" y="18.7" class="t0">K</tspan><tspan  y="18.7" class="t0">
+</tspan>
+	</text>
+</svg>
